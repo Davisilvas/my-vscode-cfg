@@ -11,13 +11,17 @@
     */
 
     EXTENSÕES QUE EU USO:
-    Ballerini Themes;
-    Material Icons Theme;
+    Ballerini Themes - Tema para o VsCode;
+    Material Icons Theme - tema de ícones para o VsCode;
     Java bundle;
-    live server;
-    CodeSnap;
+    live server - server para códigos em HTML / CSS / JS;
+    CodeSnap - pra tirar prints do código;
     Bracket Pair Color;
-    Color Highlight;
-    emerald - theme;
-    ident-rainbow;
+    Color Highlight - quando inserir um código de cor, ele vai mostrar a cor na IDE;
+    emerald - tema para o VsCode;
+    ident-rainbow - colore os espaços de identação e mostra erros nela;
+    Code Spell Checker - verifica erros hortográficos em inglês;
+    Code Spell pra pt-br;
+    TODO Highlight - Adiciona To Do's no código e os destaca para funcionar como lembretes.
+    Error Lens - Mostra os erros na linha onde ele ocorreu.
 

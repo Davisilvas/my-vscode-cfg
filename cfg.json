@@ -1,0 +1,8 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.wordWrap": "on",
+    "explorer.compactFolders": false,
+
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Default Dark+"
+}

@@ -36,5 +36,3 @@
     
     ### ERROR CHECK ###
     * Error Lens - Mostrar os erros na linha onde ele ocorreu.
-    
-

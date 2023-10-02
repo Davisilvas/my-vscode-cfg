@@ -5,3 +5,9 @@ INSTALANDO O JDK NO LINUX:
 
 INSTALANDO O LINUX NO UBUNTU:
     https://youtu.be/YKjPi7Td3ZQ?si=J0X4DkWT0C3ECUzi
+    
+INSTALANDO O NODE NO UBUNTU (NVM)
+	https://www.youtube.com/watch?v=B9Hd11RT7Bk&list=LL&index=3&t=82s
+
+INSTALANDO O TYPESCRIPT NO UBUNTU
+	https://www.youtube.com/watch?v=b0X1XOvWUAU&t=2s

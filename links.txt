@@ -11,3 +11,9 @@ INSTALANDO O NODE NO UBUNTU (NVM)
 
 INSTALANDO O TYPESCRIPT NO UBUNTU
 	https://www.youtube.com/watch?v=b0X1XOvWUAU&t=2s
+
+INSTALANDO O PYENV NO UBUNTU
+	https://youtu.be/1Zgo8M9yUtM?si=wogXceOJW1PrBDiu
+
+PERSONALIZANDO O VSCODE PARA O PYTHON
+	https://youtu.be/7Kpd6eprz4k?si=38hwaLnTmNW0csqY

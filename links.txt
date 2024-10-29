@@ -17,3 +17,6 @@ INSTALANDO O PYENV NO UBUNTU
 
 PERSONALIZANDO O VSCODE PARA O PYTHON
 	https://youtu.be/7Kpd6eprz4k?si=38hwaLnTmNW0csqY
+	
+DUAL BOOT POP OS com WINDOWS
+	https://www.youtube.com/watch?v=ZX64I5nSNes

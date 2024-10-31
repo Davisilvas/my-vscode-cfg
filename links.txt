@@ -23,4 +23,6 @@ DUAL BOOT POP OS com WINDOWS
 
 INSTALAÇÃO DO RUBY (rvm) UBUNTU
   obs parei antes de instalar o redis.
+  (link do gist usado no vídeo)
+  https://gist.github.com/xitarps/f20989a9976aab14517159fdc85a3223#file-gistfile1-txt-L13
   https://www.youtube.com/watch?v=RnEVgk-RtYM&t=1419s

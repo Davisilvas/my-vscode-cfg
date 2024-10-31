@@ -20,3 +20,7 @@ PERSONALIZANDO O VSCODE PARA O PYTHON
 	
 DUAL BOOT POP OS com WINDOWS
 	https://www.youtube.com/watch?v=ZX64I5nSNes
+
+INSTALAÇÃO DO RUBY (rvm) UBUNTU
+  obs parei antes de instalar o redis.
+  https://www.youtube.com/watch?v=RnEVgk-RtYM&t=1419s
